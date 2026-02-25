@@ -1,0 +1,31 @@
+C:\Users\User\Desktop\SEMESTER1\InventorySystem\obj\Debug\InventorySystem.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SEMESTER1\InventorySystem\obj\Debug\InventorySystem.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SEMESTER1\InventorySystem\bin\Debug\InventorySystem.exe.config
+C:\Users\User\Desktop\SEMESTER1\InventorySystem\bin\Debug\InventorySystem.exe
+C:\Users\User\Desktop\SEMESTER1\InventorySystem\bin\Debug\InventorySystem.pdb
+C:\Users\User\Desktop\SEMESTER1\InventorySystem\obj\Debug\InventorySystem.exe
+C:\Users\User\Desktop\SEMESTER1\InventorySystem\obj\Debug\InventorySystem.pdb
+C:\Users\User\Desktop\SEMESTER1\InventorySystem\bin\Debug\Microsoft.VisualStudio.LiveShare.dll
+C:\Users\User\Desktop\SEMESTER1\InventorySystem\bin\Debug\Microsoft.VisualStudio.LiveShare.xml
+C:\Users\User\Desktop\SEMESTER1\InventorySystem\obj\Debug\InventorySystem.csproj.CopyComplete
+F:\Hassan PAF KIET\Semester 1\PROGRAM FUNDAMENTALS\InventorySystem\bin\Debug\InventorySystem.exe.config
+F:\Hassan PAF KIET\Semester 1\PROGRAM FUNDAMENTALS\InventorySystem\bin\Debug\InventorySystem.exe
+F:\Hassan PAF KIET\Semester 1\PROGRAM FUNDAMENTALS\InventorySystem\bin\Debug\InventorySystem.pdb
+F:\Hassan PAF KIET\Semester 1\PROGRAM FUNDAMENTALS\InventorySystem\bin\Debug\Microsoft.VisualStudio.LiveShare.dll
+F:\Hassan PAF KIET\Semester 1\PROGRAM FUNDAMENTALS\InventorySystem\bin\Debug\Microsoft.VisualStudio.LiveShare.xml
+F:\Hassan PAF KIET\Semester 1\PROGRAM FUNDAMENTALS\InventorySystem\obj\Debug\InventorySystem.csproj.AssemblyReference.cache
+F:\Hassan PAF KIET\Semester 1\PROGRAM FUNDAMENTALS\InventorySystem\obj\Debug\InventorySystem.csproj.SuggestedBindingRedirects.cache
+F:\Hassan PAF KIET\Semester 1\PROGRAM FUNDAMENTALS\InventorySystem\obj\Debug\InventorySystem.csproj.CoreCompileInputs.cache
+F:\Hassan PAF KIET\Semester 1\PROGRAM FUNDAMENTALS\InventorySystem\obj\Debug\InventorySystem.csproj.CopyComplete
+F:\Hassan PAF KIET\Semester 1\PROGRAM FUNDAMENTALS\InventorySystem\obj\Debug\InventorySystem.exe
+F:\Hassan PAF KIET\Semester 1\PROGRAM FUNDAMENTALS\InventorySystem\obj\Debug\InventorySystem.pdb
+E:\Hassan PAF KIET\Semester 1\PROGRAM FUNDAMENTALS\InventorySystem\bin\Debug\InventorySystem.exe.config
+E:\Hassan PAF KIET\Semester 1\PROGRAM FUNDAMENTALS\InventorySystem\bin\Debug\InventorySystem.exe
+E:\Hassan PAF KIET\Semester 1\PROGRAM FUNDAMENTALS\InventorySystem\bin\Debug\InventorySystem.pdb
+E:\Hassan PAF KIET\Semester 1\PROGRAM FUNDAMENTALS\InventorySystem\bin\Debug\Microsoft.VisualStudio.LiveShare.dll
+E:\Hassan PAF KIET\Semester 1\PROGRAM FUNDAMENTALS\InventorySystem\bin\Debug\Microsoft.VisualStudio.LiveShare.xml
+E:\Hassan PAF KIET\Semester 1\PROGRAM FUNDAMENTALS\InventorySystem\obj\Debug\InventorySystem.csproj.AssemblyReference.cache
+E:\Hassan PAF KIET\Semester 1\PROGRAM FUNDAMENTALS\InventorySystem\obj\Debug\InventorySystem.csproj.CoreCompileInputs.cache
+E:\Hassan PAF KIET\Semester 1\PROGRAM FUNDAMENTALS\InventorySystem\obj\Debug\InventorySystem.exe
+E:\Hassan PAF KIET\Semester 1\PROGRAM FUNDAMENTALS\InventorySystem\obj\Debug\InventorySystem.pdb
+E:\Hassan PAF KIET\Semester 1\PROGRAM FUNDAMENTALS\InventorySystem\obj\Debug\Inventor.4967888A.Up2Date
